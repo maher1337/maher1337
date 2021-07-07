@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maher1337
-- 👀 I’m interested in Backend Engineering
+- 👋 Hi, I’m Maher Senoussi (@maher1337)
+- 👀 I’m an enthusiast about Software and Distributed Systems
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me (maher@omnee.ca)
