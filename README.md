@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maher Senoussi (@maher1337)
-- 👀 I’m an enthusiast about Software and Distributed Systems
-- 🌱 I’m currently learning GoLang
+- 👀 A software development & distributed systems enthusiast
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me (maher@omnee.ca)
+- 📫 Shoot me an email at maher@omnee.ca
