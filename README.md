@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Maher Senoussi (@maher1337)
 - 👀 A software development & distributed systems enthusiast
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Shoot me an email at maher@omnee.ca
+- 📫 Shoot me an email at mahersenoussii@gmail.com
